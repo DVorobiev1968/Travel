@@ -42,3 +42,26 @@ Django+Python реализующий подход REST API.
 <p>
 Доступ к добавлению\редактированию Поездов\Городов, а также удалению любых записей, должен быть только у зарегистрированных пользователей.
 </p>
+
+## Пользователи сайта
+<p>Админка на сайте Heroku: 
+<a href="https://travel-find-route-dvorobiev.herokuapp.com"> DjangoProjectTravel </a>
+Реализована средствами фреймворка
+</p>
+<table>
+<tr>
+<th>Имя</th>
+<th>Пароль</th>
+<th>Описание</th>
+</tr>
+<tr>
+<td>admin</td>
+<td>12345678</td>
+<td>python manage.py createsuperuser</td>
+</tr>
+<tr>
+<td>user1</td>
+<td>Gjkmpjdfntkm@1</td>
+<td>Стандартный пользователь сайта</td>
+</tr>
+</table>
