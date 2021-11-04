@@ -3,98 +3,98 @@
   "model": "cities.city",
   "pk": 3,
   "fields": {
-    "name": "Добрянка Пермский край"
+    "name": "Äîáðÿíêà Ïåðìñêèé êðàé"
   }
 },
 {
   "model": "cities.city",
   "pk": 4,
   "fields": {
-    "name": "Варшава"
+    "name": "Âàðøàâà"
   }
 },
 {
   "model": "cities.city",
   "pk": 5,
   "fields": {
-    "name": "Лондон"
+    "name": "Ëîíäîí"
   }
 },
 {
   "model": "cities.city",
   "pk": 6,
   "fields": {
-    "name": "Краков"
+    "name": "Êðàêîâ"
   }
 },
 {
   "model": "cities.city",
   "pk": 7,
   "fields": {
-    "name": "Амстердам"
+    "name": "Àìñòåðäàì"
   }
 },
 {
   "model": "cities.city",
   "pk": 9,
   "fields": {
-    "name": "Вильнюс"
+    "name": "Âèëüíþñ"
   }
 },
 {
   "model": "cities.city",
   "pk": 10,
   "fields": {
-    "name": "Вена"
+    "name": "Âåíà"
   }
 },
 {
   "model": "cities.city",
   "pk": 11,
   "fields": {
-    "name": "Полазна"
+    "name": "Ïîëàçíà"
   }
 },
 {
   "model": "cities.city",
   "pk": 12,
   "fields": {
-    "name": "Нью-Йорк"
+    "name": "Íüþ-Éîðê"
   }
 },
 {
   "model": "cities.city",
   "pk": 13,
   "fields": {
-    "name": "Абакан"
+    "name": "Àáàêàí"
   }
 },
 {
   "model": "cities.city",
   "pk": 15,
   "fields": {
-    "name": "Мадрид"
+    "name": "Ìàäðèä"
   }
 },
 {
   "model": "cities.city",
   "pk": 16,
   "fields": {
-    "name": "Берлин"
+    "name": "Áåðëèí"
   }
 },
 {
   "model": "cities.city",
   "pk": 17,
   "fields": {
-    "name": "Гамбург"
+    "name": "Ãàìáóðã"
   }
 },
 {
   "model": "cities.city",
   "pk": 18,
   "fields": {
-    "name": "Москва"
+    "name": "Ìîñêâà"
   }
 },
 {
